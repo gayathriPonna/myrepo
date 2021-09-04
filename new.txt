@@ -1,2 +1,4 @@
 Hello GitHub 
 I am Pulluru Yaswanth.
+This a test file
+to generate merge conflicts.
